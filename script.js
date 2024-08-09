@@ -1,0 +1,4 @@
+
+function alertar(){
+    prompt("a")
+}
